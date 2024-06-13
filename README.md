@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumanth</h1>
+<h1 align="center">Hi 👋, I'm Sumanth Pre-Final Year Student</h1>
 <h3 align="center">Passionate data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vallabhsumanth&label=Profile%20views&color=0e75b6&style=flat" alt="vallabhsumanth" /> </p>
