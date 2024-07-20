@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/killer_23h" target="blank"><img src="https://img.shields.io/twitter/follow/killer_23h?logo=twitter&style=for-the-badge" alt="killer_23h" /></a> </p>
 
-- 🔭 I’m currently working on **auto information generating system**
+- 🔭 I’m currently working on **Deep Learning and Machine Learning Models**
 
 - 🌱 I’m currently learning **MySql,R,php,Mongodb,Tablues**
 
