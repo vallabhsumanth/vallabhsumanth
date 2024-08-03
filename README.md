@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Deep Learning and Machine Learning Models**
 
-- 🌱 I’m currently learning **MySql,R,php,Mongodb,Tablues**
+- 🌱 I’m currently learning **BCI(Brain Computer Interface),DL,ML**
 
 - 💬 Ask me about **ML,DL Models**
 
