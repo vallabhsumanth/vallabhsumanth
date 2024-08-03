@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumanth Final Year Student</h1>
-<h3 align="center">Passionate ML Deceloper</h3>
+<h3 align="center">Passionate ML Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vallabhsumanth&label=Profile%20views&color=0e75b6&style=flat" alt="vallabhsumanth" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MySql,R,php,Mongodb,Tablues**
 
-- 💬 Ask me about **MySql,PowerBI**
+- 💬 Ask me about **ML,DL Models**
 
 - 📫 How to reach me **sumanthkorimilli@gmail.com**
 
