@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumanth Final Year Student</h1>
-<h3 align="center">Passionate data analyst</h3>
+<h3 align="center">Passionate ML Deceloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vallabhsumanth&label=Profile%20views&color=0e75b6&style=flat" alt="vallabhsumanth" /> </p>
 
