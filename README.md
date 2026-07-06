@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="21004063.jpg" width="300" alt="banner"/>
+  <img src="21004062.jpg" width="300" alt="banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vallabh Sumanth</h1>
@@ -28,7 +28,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=Exploring+new+tech+stacks" alt="Typing SVG" />
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,csharp,go,docker,fastapi,postgres,mongodb,mysql,git,aws,py,scylladb" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,cs,go,docker,postgres,mongodb,mysql,git,aws,redis" />
 </p>
 
 ```python
