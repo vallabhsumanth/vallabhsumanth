@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="jpg" width="300" alt="banner"/>
+  <img src="21004063.jpg" width="300" alt="banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vallabh Sumanth</h1>
