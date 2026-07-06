@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.codingtemple.com/blog/what-is-vibe-coding-exploring-its-impact-on-programming/" width="100%" alt="banner"/>
+  <img src="21004063.jpg" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vallabh Sumanth</h1>
